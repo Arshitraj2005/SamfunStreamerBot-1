@@ -1,6 +1,6 @@
 [pyrogram]
-api_id = 1234567
-api_hash = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+api_id = 21104628
+api_hash = 45261b9ce50786fc8ab1a8b45494f577
 app_version = 1.0
 device_model = PC
 system_version = Windows
@@ -9,13 +9,13 @@ system_version = Windows
 root = streamer/telegram/plugins
 
 [bot-configuration]
-bot_token = 123456789:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+bot_token = 8363849977:AAF00Fv0TkNoPG-F9ORpk2DloAVe3e2x94k
 session = StreamerBot
-allowed_users = [123456789, 987654321]
+allowed_users = [5326642169]
 
 [database]
-db_host = xxxxxxxxxx.xxxxx.mongodb.net or whatever
-db_username = username
-db_password = password
+db_host = cluster0.xsd21.mongodb.net
+db_username = arshitraj
+db_password = rajarshit15
 db_name = StreamerBot
 db_type = Mongo_Atlas (or Mongo_Community)
